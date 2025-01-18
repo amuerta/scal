@@ -12,7 +12,7 @@ Also i wanted to expiriment with how prasing works, since i couldn't get my head
 
 # Getting stated
 
-You can grab prebuild binaries with default font included in [Releases] (https://github.com/amuerta/scal/releases) Page. There are pre-build binaries for x86_64 Windows and Linux (Posix).
+You can grab prebuild binaries with default font included in [Releases](https://github.com/amuerta/scal/releases) Page. There are pre-build binaries for x86_64 Windows and Linux (Posix).
 
 Otherwise you can build it yourself.
 
