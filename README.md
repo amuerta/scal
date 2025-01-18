@@ -1,6 +1,6 @@
 # Scal - ~~Simple~~ Silly Calculator
 Scal - (simple or silly, you decide) graphical calculator, written in C.
-Scal was made to test two very cool technologies: `Nob.h` - evolution of "No Build" idea, made by [Tsoding] (https://github.com/tsoding/nob.h), and [C Layout](https://github.com/nicbarker/clay) library made by nicbarker. 
+Scal was made to test two very cool technologies: `Nob.h` - evolution of "No Build" idea, made by [Tsoding](https://github.com/tsoding/nob.h), and [C Layout](https://github.com/nicbarker/clay) library made by nicbarker. 
 Also i wanted to expiriment with how prasing works, since i couldn't get my head around it in first few tries.
 
 # "Features"
