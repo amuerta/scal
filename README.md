@@ -19,7 +19,7 @@ Otherwise you can build it yourself.
 # Building
 
 **Requirements:**
-- clang compiler for linux / mingw for windows
+- clang compiler for linux OR Mingw for windows
 
 ## Steps:
 
@@ -39,9 +39,9 @@ Optionally you can specifiy no font loading, by adding `--default-font` at the e
 
 ## NOTE:
 
-Calculator expects for a `./assets/AppFont.ttf` to exist somewhere near it. Its hardcoded path, thus you have to either create a softlink to the directory to the font, or a link to the executable.
+Calculator expects for a `./assets/AppFont.ttf` to exist somewhere near it. Its hardcoded path, thus you have to either create a softlink to the directory of the font, or a link to the executable.
 
-If no font found, calculator will use default raylib font, which due to some bizzare Clay sizing WILL overlap its glyphs.
+If no font found, calculator will use default raylib font, which due to some dubious Clay font spacing WILL overlap its glyphs.
 
 # Funny features:
 
