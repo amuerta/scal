@@ -57,4 +57,4 @@ Expressions with just numbers like `(10)`, `10`, `10+` will evaluate without err
 
 # Demo:
 
-![Preview](https://github.com/amuerta/scal/preview.gif)
+![Preview](preview.gif)
