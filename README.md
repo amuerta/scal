@@ -45,7 +45,7 @@ If no font found, calculator will use default raylib font, which due to some dub
 
 # Funny features:
 
-Since Scal has error-handling system, it will show `Syntax error` when you provide invalid input expression. You might enter expression like `-1` and get an error, even tho the expression is valid. That happens because Scal uses simplified parser grammar, where it would expect an expression with two operands, to acomidate this, just put whenever you need to have negative number:
+Since Scal has error-handling system, it will show `Syntax error` when you provide invalid input expression. You might enter expression like `-1` and get an error, even tho the expression is valid. That happens because Scal uses simplified parser grammar, where it would expect an expression with two operands, to acomidate this, just put 0 before whatever number you need to be negative:
 
 Invalid Expr:
     `-1`
